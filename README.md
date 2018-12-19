@@ -9,4 +9,10 @@
   Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
   
   不支持中文，不过可以跟HanLP等包配合使用。
-  
+
+## AB测试
+  https://github.com/zalando/expan
+  A Python library for statistical analysis of randomised control trials (A/B tests).
+
+## Chatbots
+  https://github.com/RasaHQ/rasa_nlu
