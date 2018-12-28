@@ -4,6 +4,7 @@
   http://nbviewer.jupyter.org/github/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb
   
   https://github.com/zalandoresearch/flair
+  
   A very simple framework for state-of-the-art Natural Language Processing (NLP)
   
 ## Pattern
