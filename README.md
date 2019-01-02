@@ -20,3 +20,10 @@
 
 ## Chatbots
   https://github.com/RasaHQ/rasa_nlu
+
+# 模型
+
+模型解释
+A unified approach to explain the output of any machine learning model.
+
+https://github.com/slundberg/shap
