@@ -7,6 +7,10 @@
   
   A very simple framework for state-of-the-art Natural Language Processing (NLP)
   
+  https://github.com/chakki-works/doccano
+  
+  Open source text annotation tool for machine learning practitioner. 
+  
 ## Pattern
   https://github.com/clips/pattern
   
